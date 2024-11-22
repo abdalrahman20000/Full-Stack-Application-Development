@@ -1,7 +1,6 @@
 # Full-Stack-Application-Development
 
 # Name:Abd-alrahman mansour ata
-# Phone : 0782717165
 
 ## Set up Database :
 ### - Create a postgress database with name Full-Stack-Application-Development
